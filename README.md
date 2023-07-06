@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter project.
+A new Flutter project. It is fully social-media like app, with firebase services, authentication, firestore and used realtime storage.
 
 ## Getting Started
 
